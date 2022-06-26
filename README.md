@@ -2,6 +2,8 @@
 YouTube Like Video Player Clone by Simple Html, CSS &amp; JavaScript 🙂
 This Clone is Inspired From YouTube Video Player and I have Created this YouTube Video Player in which u can see **Volume (up/down or mute), Play/Pause Button, Preview Image, Thumbnail, Volume, Duration, Captions, Mini-player, Theater and Full Screen Button** and everything you see on any video player on YouTube 
 
+**Also Credit for the Video from [Web dev Simplified](https://github.com/WebDevSimplified)** 💙👍 
+
 # ScreenShots:
 ![Screenshot (238)](https://user-images.githubusercontent.com/52501040/175824890-40a65156-894f-4fbf-afc0-56982c71118c.png)
 ![Screenshot (239)](https://user-images.githubusercontent.com/52501040/175824892-84ae6c0e-79f7-41a8-b425-f83f28a622bd.png)
