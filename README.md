@@ -10,4 +10,11 @@ This Clone is Inspired From YouTube Video Player and I have Created this YouTube
 ![Screenshot (233)](https://user-images.githubusercontent.com/52501040/175824894-175f574e-a71e-444d-a3c5-003a090a4c18.png)
 ![Screenshot (237)](https://user-images.githubusercontent.com/52501040/175824888-94d8cdb5-d8f5-4e7e-b83d-9f4641de6e84.png)
 
-PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
+
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
